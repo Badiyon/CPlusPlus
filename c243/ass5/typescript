@@ -1,0 +1,26 @@
+Script started on Tue 05 Mar 2019 12:43:11 PM EST
+]0;beberkey@cs03:~/c243/ass5[?1034h[beberkey@cs03 ass5]$ ls
+bbtest.cc  [0m[01;32mnode2.template[0m  [01;32mqueue4.template[0m  [01;32mtest.cc[0m  typescript
+[01;32mnode2.h[0m    [01;32mqueue4.h[0m        [01;32mtest[0m             [01;32mtestq[0m
+[m]0;beberkey@cs03:~/c243/ass5[beberkey@cs03 ass5]$ ./testq
+ Here is what is in the queue currently 
+
+52
+63
+85
+37
+9
+5
+52 has been dequeued 
+63 has been dequeued 
+5 is in the queue 
+4 is not in the queue 
+ Here is what is in the queue currently 
+
+85
+37
+9
+5
+]0;beberkey@cs03:~/c243/ass5[beberkey@cs03 ass5]$ exit
+
+Script done on Tue 05 Mar 2019 12:43:27 PM EST

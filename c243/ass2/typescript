@@ -1,0 +1,11 @@
+Script started on Tue 05 Feb 2019 10:07:24 PM EST
+]0;beberkey@cs03:~/c243/ass2[?1034h[beberkey@cs03 ass2]$ ls
+[0m[01;32mbag3.cc[0m  [01;32mbag3demo.cc[0m  [01;32mbag3.h[0m  [01;32mbbprobsim[0m  bbprobsim.cc  junk.cc  [01;32mnode1.cc[0m  [01;32mnode1.h[0m  typescript
+[m]0;beberkey@cs03:~/c243/ass2[beberkey@cs03 ass2]$ ./[K[Kls./bbprobsim
+How many trails should be done? 3
+Average of red balls grabbed in 10 grabs in 3 trails is 5
+Average of red balls grabbed in 100 grabs in 3 trails is 48
+Average of red balls grabbed in 1000 grabs in 3 trails is 489
+]0;beberkey@cs03:~/c243/ass2[beberkey@cs03 ass2]$ exit
+
+Script done on Tue 05 Feb 2019 10:07:41 PM EST

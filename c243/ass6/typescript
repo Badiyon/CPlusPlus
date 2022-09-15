@@ -1,0 +1,35 @@
+Script started on Wed 20 Mar 2019 04:09:04 AM EDT
+]0;beberkey@cs03:~/c243/ass6[?1034h[beberkey@cs03 ass6]$ ls
+[0m[01;32mairports.dat[0m  [01;32ma.out[0m  [01;32mbbairport[0m  bbairports.cc  [01;32mtable1.h[0m  [01;32mtable1.template[0m  test.cc  [01;32mtesttab[0m  [01;32mtesttab1.cc[0m  typescript
+[m]0;beberkey@cs03:~/c243/ass6[beberkey@cs03 ass6]$ ./bbairport 
+R = Remove
+F = Find
+Q = Quit
+Input your choice now. F
+Input three letter code ATL
+Key was found. Code = MUC
+ Location = MUC Franz Josef Strauss International AirportAirportR = Remove
+F = Find
+Q = Quit
+Input your choice now. F
+Input three letter code LAX
+Key was found. Code = MUC
+ Location = MUC Franz Josef Strauss International AirportAirportR = Remove
+F = Find
+Q = Quit
+Input your choice now. R
+Input three letter code ATL
+R = Remove
+F = Find
+Q = Quit
+Input your choice now. F
+Input three letter code ATL
+Key was not found. 
+R = Remove
+F = Find
+Q = Quit
+Input your choice now. Q
+Quitting now. 
+]0;beberkey@cs03:~/c243/ass6[beberkey@cs03 ass6]$ exit
+
+Script done on Wed 20 Mar 2019 04:09:41 AM EDT
